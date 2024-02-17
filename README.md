@@ -1,6 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=8AE2F7&random=false&width=435&lines=Hi%2C+I'm+Bhawesh+Pandey;A+Full+Stack+Developer+!" alt="Typing SVG" /></a></h1>
+
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&pause=1000&color=8AE2F7&random=false&width=500&height=95&lines=Hi%2C+I'm+Bhawesh+Pandey;A+Full+Stack+Developer+!" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaweshpandey-03&label=Profile%20views&color=0e75b6&style=flat" alt="bhaweshpandey-03" /> </p>
