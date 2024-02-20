@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [www.google.com](www.google.com)
 
-- 💬 Ask me about **react, JavaScript**
+- 💬 Ask me about **React.js, JavaScript**
 
 - 📫 How to reach me **bhaweshpandey0310@gmail.com**
 
